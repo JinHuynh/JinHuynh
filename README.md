@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
+<!--<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>-->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanh+Tin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Huynh+Ngoc+Tai!;" />
 </h1>
 
-<h3 align="center">I'm a Web Developer and UI/UX designer</h3>
+<h3 align="center">I'm a backend web Developer</h3>
 
 <br/>
 
@@ -29,22 +29,22 @@ Here are some ideas to get you started:
 
  🌍 I'm based in Vietnamese 
  
- 🔭 I’m currently working on **a chat app**
+<!-- 🔭 I’m currently working on **a chat app**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
+ -->
  </div>
 
 <div align="center"> 
-  <a href="mailto:tintran11.work@gmail.com">
+  <a href="mailto:taihn81@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/thanhtin/" target="_blank">
+  <a href="https://www.linkedin.com/in/ngoctai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://thanhtin4401.github.io/myWebSite/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+ <!-- <a href="https://thanhtin4401.github.io/myWebSite/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options
+  </a> -->
 </div>
 
 <h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
